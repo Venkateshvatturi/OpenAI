@@ -1,0 +1,10 @@
+To import the Pega ChatGPT application, please follow the steps below:
+
+1.Log in to Pega dev studio.
+2.Click on "Configure" on the header session.
+3.Go to "Application" -> "Distribution" -> "Import."
+4.Import the Jar file.
+5.After the Jar import is completed, close the tab and click on "Launch Portal."
+6.Click on "Create" and launch the Chat GPT Case.
+
+With Pega ChatGPT, you can ask Open AI any questions you want.
